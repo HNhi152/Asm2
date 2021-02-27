@@ -1,0 +1,8 @@
+<html>
+<head>
+    <tittle> PHP test </tittle>
+</head>
+<body>
+    <?php echo '<p>Hello Nguyen Tran Hoang Nhi</p>'; ?>
+</body>
+</html>
